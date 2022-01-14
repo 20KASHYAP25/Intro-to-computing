@@ -1,0 +1,31 @@
+Enter number 1:4
+Enter number 2:5
+Enter number 3:3
+The average of number is: 4.0
+
+
+Enter your gross income:100000
+Enter number of dependents:10
+Your annual tax is: 12000.0
+
+
+Enter your name: Kashyap
+Enter your sid: 21104001
+Enter your gender: M
+Enter your course name: applied chemistry
+Enter your CGPA: 9.5
+[21104001, 'Kashyap', 'M', 'applied chemistry', '9.5']
+
+
+Enter marks of 1st student 8
+Enter marks of 2nd student 7
+Enter marks of 3rd student 6
+Enter marks of 4th student 9
+Enter marks of 5th student 7
+[6, 7, 7, 8, 9]
+
+
+['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+After Deleting 4th item,new list is: ['Red', 'Green', 'White', 'Pink', 'Yellow']
+Answer for part B: ['Red', 'Green', 'White', 'purple', 'Yellow']
+PS D:\Code with harry>
